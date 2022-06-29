@@ -20,8 +20,9 @@ My second milestone was soldering all the componenets to a perfboard and putting
   
 My first milestone was finishing the code and prototype of the midi machine. I searched online for the libraries I needed and yoinked the code I needed from several websites. Then, I wired a single button and a single poteminator to the breadboard with test code in order to figure out how they worked. After realizing that I can add as many buttons as I want because it doesn't use voltage, I chose to have 8 buttons and 4 knobs. I chose not to use sliders and stuck to knobs, because the sliders heated up when I wired them. After fully wiring everything, I downloaded some software that was compatible with arduino, and made sure the componenets worked.
 
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=uNW3vx6xUfY "First Milestone"){:target="_blank" rel="noopener"}
 # Starter Project - Arduino 8x8 Neopixel Matrix
   
 For my starter project, I built an 8x8 pixel matrix. To do this, I had to wire the matrix to the arduino. This was really easy, so I added a button to it. I only had 2 components, so I didn't need to use a breadboard. I searched up the libraries I needed and added them, then wrote a couple of lines of code that made the matrix glow red when I pressed the button, then switch to green and fade away when I release it.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=PZVI2LNtGMw "Starter Project"){:target="_blank" rel="noopener"}
