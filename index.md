@@ -5,7 +5,7 @@ A midi controller is a device with buttons and knobs that mimic that of a real i
 |:--:|:--:|:--:|:--:|
 | Shashank | Monta Vista High School | Game Design | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUAkC9phMFWO-M6XI3-yLgs6uXtQueA0Dsje7uUV5icQ2FD9q339wvN3TNKMwkSLDNE_EP8jKJ7deakIn_tduXOjK-PhGXl9_4G6zPutxFA27blU9xTUcbTD5S96e-zon6CKf39v3PXXFxBO5x-ZdU=s1720-no?authuser=0)
   
 # Final Milestone
 
