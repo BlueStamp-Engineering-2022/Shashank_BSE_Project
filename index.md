@@ -13,7 +13,10 @@ For my final milestone, I added an LED neopixel strip to the side of the midi co
 
 [![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1657829481/video_to_markdown/images/youtube--I6Ldl7sl8_s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=I6Ldl7sl8_s "Milestone 3")
 
-# Second Milestone
+[Link To Schematic](https://user-images.githubusercontent.com/88253938/180550267-e88a3bac-b0cd-44e0-9c1e-c5c0917d4654.png)
+
+# Second Milestone!
+
 My second milestone was soldering all the componenets to a perfboard and putting everything in a box. I soldered wires to every componenet and haphazardly stuck them in the perfboard, connecting ground with ground and 5volt with 5volt with large amounts of solder. I also drilled circular holes in the top of the box to put the buttons and knobs in, as well as a circular hole that I spent half an hour filing into a rectangle for the USB that powered the arduino. after stuffing everything into the box, I hooked it up to my computer and played around with it, making a demo song with Delay Lama.
 
 [![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1657829440/video_to_markdown/images/youtube--3B9JGQWBSp0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=3B9JGQWBSp0 "Milestone 2")
