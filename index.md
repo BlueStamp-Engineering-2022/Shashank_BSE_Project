@@ -8,6 +8,7 @@ A midi controller is a device with buttons and knobs that mimic that of a real i
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUAkC9phMFWO-M6XI3-yLgs6uXtQueA0Dsje7uUV5icQ2FD9q339wvN3TNKMwkSLDNE_EP8jKJ7deakIn_tduXOjK-PhGXl9_4G6zPutxFA27blU9xTUcbTD5S96e-zon6CKf39v3PXXFxBO5x-ZdU=s1720-no?authuser=0)
   
 # Final Milestone
+
 For my final milestone, I added an LED neopixel strip to the side of the midi controller, which sent a light pulse around it whenever I recieved a note signal from my computer. To do this, I needed to add an alternate power source, so I took a 9volt power source, regulated it to 5volt, and connected just my neopixels to it, so that I could choose whether I wanted them on or off. I drilled another 2 holes in order to fit the pixel strip and the 9volt power wire through. It can also accept midi signals and send a color corresponding to the note down the strip.
 
 [![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1657829481/video_to_markdown/images/youtube--I6Ldl7sl8_s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=I6Ldl7sl8_s "Milestone 3")
