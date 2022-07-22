@@ -13,7 +13,7 @@ For my final milestone, I added an LED neopixel strip to the side of the midi co
 
 [![Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1657829481/video_to_markdown/images/youtube--I6Ldl7sl8_s-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=I6Ldl7sl8_s "Milestone 3")
 
-[Link To Schematic](https://user-images.githubusercontent.com/88253938/180550267-e88a3bac-b0cd-44e0-9c1e-c5c0917d4654.png)
+**[Link To Schematic](https://user-images.githubusercontent.com/88253938/180550267-e88a3bac-b0cd-44e0-9c1e-c5c0917d4654.png)**
 
 # Second Milestone!
 
